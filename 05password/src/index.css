@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  background-color: #2d3748; /* Equivalent to bg-gray-800 */
+}
